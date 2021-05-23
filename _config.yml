@@ -1,0 +1,59 @@
+# SITE CONFIGURATION
+# baseurl: "/mavis-ao"
+baseurl: ""
+url: "https://frigaut.github.io"
+title: MAVIS
+
+strict_front_matter: true
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: mavis-ao
+  avatar: assets/img/mavis_logo_square.png
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
+  description: "MAVIS: a MCAO-Assisted Visible Imager and Spectrograph for the VLT AOF" # used by search engines
+
+# Header and footer text
+# header_text: <div style="text-align:right;font-family:'CHUCKLESOME';font-weight:100;color:#3b9eec;line-height:1.5em;margin-top:1em;"><font style="font-size:300%;color:#fff;text-shadow:'0 0 1px rgba(255,255,255,0.8)';">MAVIS</font><br><font style="font-size: 120%;color: #ccc; color: transparent; text-shadow: 0 0 1px rgba(255,255,255,0.6);">Sharper than JWST, deeper than HST</font> </p>
+# header_text: MAVIS<p style='font-size:1.8rem;'>Deeper than HST, Sharper than JWST</p>
+header_text: <div style='text-align:right;font-family:CHUCKLESOME;font-weight:100;line-height:1em;margin-top:1em;margin-right:1em;'><font style='font-size:150%;color:#fff;opacity:0.8;'>MAVIS</font><br><font style='font-size:60%;color:#ccc;opacity:0.5;'>Sharper than JWST, deeper than HST</font></p>
+# header_text: MAVIS
+header_feature_image: assets/img/pexels/cluster_banner.png
+
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+# Features
+# More in the _data folder for social icons, share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: true                                           # Enable mermaid-js for sequence and diagrams
+google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false                                   # To respect the usage of cookies
+disqus_shortname:                                       # Your discus shortname for comments
+cusdis_app_id:                                          # Your cusdis data-app-id
+color_theme: auto                                       # auto, dark or light
+
+# PAGINATION
+paginate: 20
+paginate_path: "blog/page:num"
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
+
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
