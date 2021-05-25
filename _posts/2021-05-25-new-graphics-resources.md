@@ -11,7 +11,7 @@ comments: []
 excerpt_separator: <!--more-->
 ---
 
-In the process of creating/gathering graphics resources for the media release that is going to go along the agreement signature, we have a few more goodies. Feel free to use at will.
+In the process of creating/gathering graphics resources for the media release that is going to go along the agreement signature, we have a few more goodies. Feel free to use at will.<!--more-->
 
 INFOGRAPHICS:
 
