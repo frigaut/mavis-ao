@@ -12,7 +12,7 @@ This page contains links to useful information related to the estimated performa
 
 ## Relevant documents
 
-* ESO's call for proposal includes Top Level Requirements (TLRs), [available on the ESO website](http://www.eso.org/public/about-eso/committees/stc/stc-91st/public/STC_610_ESO_299553_2_Top_Level_Requirements_VLT_Visible_MCAO_Instrument_91st_STC_mtg_April_2018.pdf) (public document).
+* ESO's call for proposal includes Top Level Requirements (TLRs), [available on the ESO website](https://www.eso.org/public/about-eso/committees/stc/stc-91st/public/STC_610_ESO_299553_2_Top_Level_Requirements_VLT_Visible_MCAO_Instrument_91st_STC_mtg_April_2018.pdf) (public document).
 
 ## PSF Simulations
 
@@ -46,7 +46,7 @@ _Disclaimer: These simulations are preliminary, and will be refined during the d
 
 ## Imaging Point Source Sensitivity
 
-These values come from the simulations described in [Esposito et al.](http://adsabs.harvard.edu/abs/2016SPIE.9909E..3UE) (2016, Proceedings of the SPIE, Volume 9909, id. 99093U), which consider different guide star configurations for an optical MCAO system like MAVIS. These will be updated to reflect actual MAVIS predictions in due course.
+These values come from the simulations described in [Esposito et al.](https://adsabs.harvard.edu/abs/2016SPIE.9909E..3UE) (2016, Proceedings of the SPIE, Volume 9909, id. 99093U), which consider different guide star configurations for an optical MCAO system like MAVIS. These will be updated to reflect actual MAVIS predictions in due course.
 
 
 ### Assumptions

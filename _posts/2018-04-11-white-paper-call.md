@@ -11,12 +11,12 @@ author: Richard Mcdermid
 
 Dear Colleagues,
 
-We are writing to solicit White Papers describing exciting science cases that make use of the unique capabilities of "MAVIS" (MCAO Assisted Visible Imager & Spectrograph) - a new Australian-led instrument concept for the Adaptive Optics Facility on ESO’s VLT. More details on MAVIS can be found at http://mavis-ao.org/mavis. In summary, the expected top-level requirements are:
+We are writing to solicit White Papers describing exciting science cases that make use of the unique capabilities of "MAVIS" (MCAO Assisted Visible Imager & Spectrograph) - a new Australian-led instrument concept for the Adaptive Optics Facility on ESO’s VLT. More details on MAVIS can be found at [here](mavis-ao.org/mavis). In summary, the expected top-level requirements are:
 
 -	Field of View: 30”x30” 
 -	Wavelength Coverage: VRI, extended to UBz (goal)
 -	Imager with broad- and narrow-band filters
--	Angular resolution (FWHM): 20 milliarcsec at V (7 mas imaging pixels)
+-	Angular resolution (FWHM):20 milliarcsec at V (7 mas imaging pixels)
 -	Strehl ratio of 10-15% in V under median seeing conditions
 -	Sky coverage: > 50% at the Galactic poles
 -	Spectroscopy options include single monolithic IFU, deployable multi-IFUs, or single-fibre MOS, with R > ~5000
@@ -29,7 +29,7 @@ As part of defining the detailed MAVIS instrument design, we are looking for com
 If you are interested in contributing a MAVIS White Paper, or would otherwise like to receive updates on the process, please proceed as follows:
 
 * **Step 1:** Get in touch as soon as possible by emailing project-scientist@mavis-ao.org. Include information on what specific topic will be addressed, and the names of any co-authors, if known. We would like to encourage coordination and collaboration between White Paper authors, and will work with you to avoid redundancy where possible. Early expressions of intent will help facilitate this process.
-* **Step 2:** Please aim to send an initial draft of your White Paper to project-scientist@mavis-ao.org by May 4th. White Papers received by this deadline will be included for discussion at the MAVIS Workshop in Sydney, May 7-9th, where the overall shape of the MAVIS Science Case will be defined. You are strongly encouraged to present your White Paper at the workshop, by registering here: http://mavis-ao.org/workshop. 
+* **Step 2:** Please aim to send an initial draft of your White Paper to project-scientist@mavis-ao.org by May 4th. White Papers received by this deadline will be included for discussion at the MAVIS Workshop in Sydney, May 7-9th, where the overall shape of the MAVIS Science Case will be defined. You are strongly encouraged to present your White Paper at the workshop, by registering [here](mavis-ao.org/workshop). 
 * **Step 3:** Final White Paper submissions will be accepted up until **July 15th** (**extended from original June 15**). Following this date, construction of the final MAVIS Science Case will begin, and White Paper authors should expect to be directly involved in that process.
 
 Final White Papers will be made public on the MAVIS website (with author permission). We will also explore the possibility of publishing the White Papers through a journal special edition.
