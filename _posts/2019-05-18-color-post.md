@@ -3,6 +3,7 @@ layout: post
 title: Color Post
 tags: [Test, Color, Markdown]
 color: brown
+published: false
 author: sylhare
 excerpt_separator: <!--more-->
 ---
