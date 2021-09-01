@@ -321,19 +321,15 @@ Sorted by first name. A happy team!
 <br>Mirko Colapietro<br>INAF-Capodimonte
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/mojtaba_taheri.jpg" style="width:200px;" />
-<br>Mojtaba Taheri<br>-
-</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/nick_herrald.jpg" style="width:200px;" />
 <br>Nick Herrald<br>Astralis-AITC
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/nicolas_doucet.jpg" style="width:200px;" />
 <br>Nicolas Doucet<br>Astralis-AITC
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/nuria_lorente.jpg" style="width:200px;" />
 <br>Nuria Lorente<br>Astralis-AAO
@@ -346,12 +342,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/paolo_grani.jpg" style="width:200px;" />
 <br>Paolo Grani<br>INAF
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/pierre_haguenauer.png" style="width:200px;" />
 <br>Pierre Haguenauer<br>ESO
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/pietro_schipani.jpg" style="width:200px;" />
 <br>Pietro Schipani<br>INAF-Capodimonte
@@ -364,12 +360,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/roberto_ragazzoni.jpg" style="width:200px;" />
 <br>Roberto Ragazzoni<br>INAF-Padova
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/romain_fetick.jpg" style="width:200px;" />
 <br>Romain Fetick<br>LAM
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/rosanna_sordo.jpg" style="width:200px;" />
 <br>Rosanna Sordo<br>INAF-Padova
@@ -382,12 +378,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/salvatore_savarese.jpg" style="width:200px;" />
 <br>Salvatore Savarese<br>INAF-Capodimonte
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/scott_smedley.jpg" style="width:200px;" />
 <br>Scott Smedley<br>Astralis-AAO
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/sergio_dorsi.jpg" style="width:200px;" />
 <br>Sergio D’Orsi<br>INAF-Capodimonte
@@ -400,12 +396,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/simone_antoniucci.jpg" style="width:200px;" />
 <br>Simone Antoniucci<br>INAF-Roma
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/simone_di_filippo.jpg" style="width:200px;" />
 <br>Simone Di Filippo<br>INAF
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/simone_esposito.jpg" style="width:200px;" />
 <br>Simone Esposito<br>INAF-Arcetri
@@ -418,12 +414,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/stefan_stroebele.jpg" style="width:200px;" />
 <br>Stefan Stroebele<br>ESO
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/stephanie_monty.jpg" style="width:200px;" />
 <br>Stephanie Monty<br>Astralis-AITC
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/thierry_fusco.jpg" style="width:200px;" />
 <br>Thierry Fusco<br>LAM
@@ -436,12 +432,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/timothy_chin.jpg" style="width:200px;" />
 <br>Timothy Chin<br>Astralis-AAO
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/trevor_mendel.jpg" style="width:200px;" />
 <br>Trevor Mendel<br>Astralis-AITC
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/valentina_viotto.jpg" style="width:200px;" />
 <br>Valentina Viotto<br>INAF-Padova
