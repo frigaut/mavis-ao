@@ -26,7 +26,9 @@ The project org chart as it stands at the start of the phase B (orange line = pr
 
 Sorted by first name. A happy team!
 
-<table style="text-align:center;width: 90%;">
+<div style="align:center; width: 90%; margin-left:auto; margin-right:auto;">
+
+<table>
 <tr>
 
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px; ">
@@ -465,5 +467,5 @@ Sorted by first name. A happy team!
 </tr>
 
 </table>
-
+</div>
 
