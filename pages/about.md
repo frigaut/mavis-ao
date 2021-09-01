@@ -7,7 +7,7 @@ tags: [mavis]
 
 ## Resources
 
-This page gives a general, synthetic overview of MAVIS. For more information, please consult:
+This page gives a general, synthetic overview of MAVIS. For more information, please consult: 
 
   * MAVIS phase A snapshot, [available here]({{site.baseurl}}{% post_url 2020-12-14-mavis-description %}).
   * MAVIS science case, [available here](https://arxiv.org/abs/2009.09242).
