@@ -2,7 +2,7 @@
 layout: page
 title: Consortium
 permalink: /consortium/
-tags: [mavis]
+tags: [mavis,people,consortium]
 ---
 
 
