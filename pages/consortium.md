@@ -315,7 +315,7 @@ Sorted by first name. A happy team!
 </tr>
 <tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/matteo_aliverti.jpg" style="width:200px;" />
+<img src="../assets/mugshots/matteo_aliverti.png" style="width:200px;" />
 <br>Matteo Aliverti<br>INAF-Milano
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
