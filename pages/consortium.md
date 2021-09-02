@@ -415,7 +415,7 @@ Sorted by first name. A happy team!
 <br>Stefan Stroebele<br>ESO
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/stephanie_monty.jpg" style="width:200px;" />
+<img src="../assets/mugshots/stephanie_monty.png" style="width:200px;" />
 <br>Stephanie Monty<br>Astralis-AITC
 </td>
 </tr>
