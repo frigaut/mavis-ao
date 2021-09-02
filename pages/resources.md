@@ -10,6 +10,10 @@ tags: [mavis,science]
 
 This page contains links to useful information related to the estimated performance of MAVIS. This page will be updated over time to include the latest information available. If you are interested in contributing to these resources with your own simulations or estimates, or if you wish to suggest a particular property to simulate for your science case, please email project-scientist@mavis-ao.org. 
 
+## MAVIS reference presentations
+
+Three MAVIS presentations are available. Feel free to use them: [MAVIS-long](../assets/pdfs/20210506-MAVIS-long.pdf) (20 pages), [MAVIS-medium](../assets/pdfs/20210506-MAVIS-medium.pdf) (10 pages), [MAVIS-short](../assets/pdfs/20210506-MAVIS-short.pdf) (5 pages)
+
 ## Relevant documents
 
 * ESO's call for proposal includes Top Level Requirements (TLRs), [available on the ESO website](https://www.eso.org/public/about-eso/committees/stc/stc-91st/public/STC_610_ESO_299553_2_Top_Level_Requirements_VLT_Visible_MCAO_Instrument_91st_STC_mtg_April_2018.pdf) (public document).

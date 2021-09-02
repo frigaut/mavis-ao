@@ -6,7 +6,7 @@ tags: [mavis,people,consortium]
 ---
 
 
-MAVIS is a collaboration between the **ASTRALIS consortium** (Australia, with the AITC and AAO nodes), **INAF** (Italy, including the branches at Padova, Arcetri, Capodimonte, Milano and Roma), the **Laboratoire d'Astrophysique de Marseille** (LAM, France) and **ESO**.
+MAVIS is a collaboration between the [**ASTRALIS consortium**](https://astralis.org.au) (Australia, with the AITC and AAO nodes), [**INAF**](http://www.inaf.it) (Italy, including the branches at Padova, Arcetri, Capodimonte, Milano and Roma), the [**Laboratoire d'Astrophysique de Marseille**](https://www.lam.fr) (LAM, France) and [**ESO**](https://www.eso.org).
 
 ![](../assets/images/all-logos-header.png)
 
@@ -151,7 +151,7 @@ Sorted by first name. A happy team!
 
 <tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/davide_ricci.png" style="width:200px;" />
+<img src="../assets/mugshots/davide_ricci.jpg" style="width:200px;" />
 <br>Davide Ricci<br>INAF-Padova
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
@@ -309,7 +309,7 @@ Sorted by first name. A happy team!
 <br>Marco Stangalini<br>INAF-Roma
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/maria_bergomi.png" style="width:200px;" />
+<img src="../assets/mugshots/maria_bergomi.jpg" style="width:200px;" />
 <br>Maria Bergomi<br>INAF-Padova
 </td>
 </tr>
@@ -387,7 +387,7 @@ Sorted by first name. A happy team!
 </tr>
 <tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/sergio_dorsi.png" style="width:200px;" />
+<img src="../assets/mugshots/sergio_dorsi.jpg" style="width:200px;" />
 <br>Sergio D’Orsi<br>INAF-Capodimonte
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
