@@ -10,6 +10,8 @@ MAVIS is a collaboration between the **ASTRALIS consortium** (Australia, with th
 
 ![](../assets/images/all-logos-header.png)
 
+![](../assets/images/consortium_map.png)
+
 The image below is from the MAVIS first busy week at Osservatorio Asiago, Italy.
 
 ![](../assets/images/20190506_132503.jpg)
@@ -26,12 +28,12 @@ The project org chart as it stands at the start of the phase B (orange line = pr
 
 Sorted by first name. A happy team!
 
-<div style="align:center; width: 90%; margin-left:auto; margin-right:auto;">
+<div style="align:center; width: 90%; margin-left:auto; margin-right:auto;font-size:80%;">
 
 <table>
 <tr>
 
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px; ">
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/alessio_zanutta.jpg" style="width:200px;" />
 <br>Alessio Zanutta<br>INAF-Milano
 </td>
