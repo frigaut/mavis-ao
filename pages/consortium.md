@@ -23,6 +23,11 @@ The project org chart as it stands at the start of the phase B (orange line = pr
 
 ![](../assets/images/mavis_org_chart.png)
 
+and top level schedule. First light is planned for the second semester 2027, in line with ELT first light.
+
+![](../assets/images/mavis_top_schedule.png)
+
+
 
 ## Team Members
 
@@ -159,7 +164,7 @@ Sorted by first name. A happy team!
 <br>Demetrio Magrin<br>INAF-Padova
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/dionne_haynes.png" style="width:200px;" />
+<img src="../assets/mugshots/dionne_haynes.jpg" style="width:200px;" />
 <br>Dionne Haynes<br>Astralis-AITC
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
