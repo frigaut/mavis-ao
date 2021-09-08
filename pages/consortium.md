@@ -65,7 +65,7 @@ Sorted by first name. A happy team!
 <br>Andrea Bianco<br>INAF-Milano
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/annino_vaccarella.png" style="width:200px;" />
+<img src="../assets/mugshots/annino_vaccarella.jpg" style="width:200px;" />
 <br>Annino Vaccarella<br>Astralis-AITC
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
@@ -122,7 +122,7 @@ Sorted by first name. A happy team!
 <br>Christian Schwab<br>Astralis-AAO
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/ciro_del_vecchio.png" style="width:200px;" />
+<img src="../assets/mugshots/ciro_del_vecchio.jpg" style="width:200px;" />
 <br>Ciro Del Vecchio<br>INAF-Arcetri
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
@@ -270,7 +270,7 @@ Sorted by first name. A happy team!
 <br>Kalyan Radhakrishnan<br>INAF-Padova
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/laura_magrini.png" style="width:200px;" />
+<img src="../assets/mugshots/laura_magrini.jpg" style="width:200px;" />
 <br>Laura Magrini<br>INAF-Arcetri
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
@@ -284,7 +284,7 @@ Sorted by first name. A happy team!
 </tr>
 <tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/luca_carbonaro.png" style="width:200px;" />
+<img src="../assets/mugshots/luca_carbonaro.jpg" style="width:200px;" />
 <br>Luca Carbonaro<br>INAF-Arcetri
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
@@ -346,7 +346,7 @@ Sorted by first name. A happy team!
 <br>Olivier Beltramo-Martin<br>LAM
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/paolo_grani.png" style="width:200px;" />
+<img src="../assets/mugshots/paolo_grani.jpg" style="width:200px;" />
 <br>Paolo Grani<br>INAF-Arcetri
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
