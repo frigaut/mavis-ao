@@ -206,7 +206,7 @@ Sorted by first name. A happy team!
 <br>Frederic Zamkotsian<br>LAM
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/gaston_gausachs.jpg" style="width:200px;" />
+<img src="../assets/mugshots/gaston_gausachs.png" style="width:200px;" />
 <br>Gaston Gausachs<br>Astralis-AITC
 </td>
 </tr>
