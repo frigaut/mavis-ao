@@ -450,10 +450,6 @@ Sorted by first name. A happy team!
 </tr>
 <tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/vladimir_churilov.png" style="width:200px;" />
-<br>Vladimir Churilov<br>Astralis-AAO
-</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/warrick_schofield.jpg" style="width:200px;" />
 <br>Warrick Schofield<br>Astralis-AITC
 </td>
