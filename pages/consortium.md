@@ -426,11 +426,15 @@ Sorted by first name. A happy team!
 <br>Stephanie Monty<br>Astralis-AITC
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
-<img src="../assets/mugshots/thierry_fusco.jpg" style="width:200px;" />
-<br>Thierry Fusco<br>LAM
+<img src="../assets/mugshots/summer_luo.jpg" style="width:200px;" />
+<br>Qiongjie (Summer) Luo<br>LAM
 </td>
 </tr>
 <tr>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
+<img src="../assets/mugshots/thierry_fusco.jpg" style="width:200px;" />
+<br>Thierry Fusco<br>LAM
+</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/thomas_pfrommer.jpg" style="width:200px;" />
 <br>Thomas Pfrommer<br>ESO
@@ -443,12 +447,12 @@ Sorted by first name. A happy team!
 <img src="../assets/mugshots/trevor_mendel.jpg" style="width:200px;" />
 <br>Trevor Mendel<br>Astralis-AITC
 </td>
+</tr>
+<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/valentina_viotto.jpg" style="width:200px;" />
 <br>Valentina Viotto<br>INAF-Padova
 </td>
-</tr>
-<tr>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/warrick_schofield.jpg" style="width:200px;" />
 <br>Warrick Schofield<br>Astralis-AITC
