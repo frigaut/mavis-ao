@@ -427,7 +427,7 @@ Sorted by first name. A happy team!
 </td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;">
 <img src="../assets/mugshots/summer_luo.jpg" style="width:200px;" />
-<br>Qiongjie (Summer) Luo<br>LAM
+<br>Qiongjie (Summer) Luo<br>Astralis-AAO
 </td>
 </tr>
 <tr>
