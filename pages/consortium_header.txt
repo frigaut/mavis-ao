@@ -1,0 +1,44 @@
+---
+layout: page
+title: Consortium
+permalink: /consortium/
+tags: [mavis,people,consortium]
+---
+
+<! DO NOT MODIFY consortium.md directly! Instead, modify consortium_header.txt (for the part
+prior to the mugshots) or  consortium_names_to_build_table.txt (to add/remove members)
+and then run yorick -i build_consortiummd.i to generate consortium.md -->
+
+MAVIS is a collaboration between the [**ASTRALIS consortium**](https://astralis.org.au) (Australia, with the AITC and AAO nodes), [**INAF**](http://www.inaf.it) (Italy, including the branches at Padova, Arcetri, Capodimonte, Milano and Roma), the [**Laboratoire d'Astrophysique de Marseille**](https://www.lam.fr) (LAM, France) and [**ESO**](https://www.eso.org).
+
+![](../assets/images/all-logos-header.png)
+
+![](../assets/images/consortium_map.png)
+
+The image below is from the MAVIS first busy week at Osservatorio Asiago, Italy.
+
+![](../assets/images/20190506_132503.jpg)
+
+
+## MAVIS Org Chart
+
+The project org chart as it stands at the start of the phase B (orange line = project office).
+
+![](../assets/images/mavis_org_chart.png)
+
+and top level schedule. First light is planned for the second semester 2027, in line with ELT first light.
+
+![](../assets/images/mavis_top_schedule.png)
+
+
+
+## Team Members
+
+Sorted by first name. A happy team!
+
+<!-- to generate the table below:
+- Add/remove the line corresponding to the member in "consortium_names_to_build_table.txt"
+- run yorick -i build_table.i
+- paste below the content of table.txt
+-->
+
