@@ -27,6 +27,7 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/dionne_haynes.jpg" style="width:200px;" /><br>Dionne Haynes<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/edoardo_redaelli.jpg" style="width:200px;" /><br>Edoardo Redaelli<br>INAF-Milano</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/elena_carolo.jpg" style="width:200px;" /><br>Elena Carolo<br>INAF-Padova</td>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/elia_costa.jpg" style="width:200px;" /><br>Elia Costa<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/elisa_portaluri.jpg" style="width:200px;" /><br>Elisa Portaluri<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/enrico_pinna.jpg" style="width:200px;" /><br>Enrico Pinna<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/fabio_rossi.jpg" style="width:200px;" /><br>Fabio Rossi<br>INAF-Arcetri</td>
