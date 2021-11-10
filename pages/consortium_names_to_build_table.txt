@@ -34,6 +34,7 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/fabio_rossi.jpg" style="width:200px;" /><br>Fabio Rossi<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/fernando_pedichini.png" style="width:200px;" /><br>Fernando Pedichini<br>INAF-Roma</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/francois_rigaut.jpg" style="width:200px;" /><br>Francois Rigaut<br>Astralis-AITC</td>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/fred_crous.jpg" style="width:200px;" /><br>Fred Crous<br>LAM</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/frederic_zamkotsian.jpg" style="width:200px;" /><br>Frederic Zamkotsian<br>LAM</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/gaston_gausachs.png" style="width:200px;" /><br>Gaston Gausachs<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/gayandhi_de_silva.jpg" style="width:200px;" /><br>Gayandhi De Silva<br>Astralis-AAO</td>
