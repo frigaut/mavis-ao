@@ -46,6 +46,7 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/helen_mcgregor.png" style="width:200px;" /><br>Helen McGregor<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/israel_vaughn.jpg" style="width:200px;" /><br>Israel Vaughn<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/jacopo_farinato.jpg" style="width:200px;" /><br>Jacopo Farinato<br>INAF-Padova</td>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/jennifer_burgess.jpg" style="width:200px;" /><br>Jennifer Burgess<br>Astralis-AITC/ANUE</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/jesse_cranney.jpg" style="width:200px;" /><br>Jesse Cranney<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/jessica_zheng.png" style="width:200px;" /><br>Jessica Zheng<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/julien_bernard.jpg" style="width:200px;" /><br>Julien Bernard<br>Astralis-AITC</td>
