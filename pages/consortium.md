@@ -5,7 +5,7 @@ permalink: /consortium/
 tags: [mavis,people,consortium]
 ---
 
-<! DO NOT MODIFY consortium.md directly! Instead, modify consortium_header.txt (for the part
+<!-- DO NOT MODIFY consortium.md directly! Instead, modify consortium_header.txt (for the part
 prior to the mugshots) or  consortium_names_to_build_table.txt (to add/remove members)
 and then run yorick -i build_consortiummd.i to generate consortium.md -->
 
