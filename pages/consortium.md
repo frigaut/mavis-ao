@@ -118,7 +118,7 @@ Sorted by first name. A happy team!
  <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/jessica_zheng.png" style="width:200px;" /><br>Jessica Zheng<br>Astralis-AAO</td>
  <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/julien_bernard.jpg" style="width:200px;" /><br>Julien Bernard<br>Astralis-AITC</td>
  <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/kalyan.jpg" style="width:200px;" /><br>Kalyan Radhakrishnan<br>INAF-Padova</td>
- <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/lance_luvaul.jpg" style="width:200px;" /><br>Laura Magrini<br>INAF-Arcetri</td>
+ <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/lance_luvaul.jpg" style="width:200px;" /><br>Lance Luvaul<br>Astralis-AITC</td>
  <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/laura_magrini.jpg" style="width:200px;" /><br>Laura Magrini<br>INAF-Arcetri</td>
  </tr>
  <tr>
