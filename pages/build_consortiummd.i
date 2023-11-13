@@ -1,7 +1,7 @@
 write,format="%s\n",["\nThis will append to consortium.md a table of names from the input file",
   "consortium_names_to_build_table.txt.",
   "To add/remove a member, modify consortium_names_to_build_table.txt, and then run",
-  "This function: yorick -i build_table.i",
+  "This function: yorick -i build_consortiummd.i",
   "consortium.md should be good.\n"];
 fin = open("consortium_names_to_build_table.txt","r");
 system,"cp consortium_header.txt consortium.md";
