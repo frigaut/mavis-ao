@@ -1,4 +1,3 @@
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/alessio_zanutta.jpg" style="width:200px;" /><br>Alessio Zanutta<br>INAF-Milano</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/alfio_puglisi.jpg" style="width:200px;" /><br>Alfio Puglisi<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrea_balestra.jpg" style="width:200px;" /><br>Andrea Balestra<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrea_baruffolo.jpg" style="width:200px;" /><br>Andrea Baruffolo<br>INAF-Padova</td>
@@ -21,7 +20,6 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/daniela_fantinel.jpg" style="width:200px;" /><br>Daniela Fantinel<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/daniele_vassallo.jpg" style="width:200px;" /><br>Daniele Vassallo<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/david_brodrick.jpg" style="width:200px;" /><br>David Brodrick<br>Astralis-AITC</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/david_robertson.jpg" style="width:200px;" /><br>David Robertson<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/davide_greggio.jpg" style="width:200px;" /><br>Davide Greggio<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/davide_ricci.jpg" style="width:200px;" /><br>Davide Ricci<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/demetrio_magrin.jpg" style="width:200px;" /><br>Demetrio Magrin<br>INAF-Padova</td>
@@ -56,13 +54,11 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/marco_bonaglia.jpg" style="width:200px;" /><br>Marco Bonaglia<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/marco_gullieuszik.png" style="width:200px;" /><br>Marco Gullieuszik<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/marco_riva.png" style="width:200px;" /><br>Marco Riva<br>INAF-Milano</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/marco_stangalini.png" style="width:200px;" /><br>Marco Stangalini<br>INAF-Roma</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/maria_bergomi.jpg" style="width:200px;" /><br>Maria Bergomi<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/matteo_aliverti.png" style="width:200px;" /><br>Matteo Aliverti<br>INAF-Milano</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/mirko_colapietro.jpg" style="width:200px;" /><br>Mirko Colapietro<br>INAF-Capodimonte</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/nicolas_doucet.png" style="width:200px;" /><br>Nicolas Doucet<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/nuria_lorente.jpg" style="width:200px;" /><br>Nuria Lorente<br>Astralis-AAO</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/paolo_grani.jpg" style="width:200px;" /><br>Paolo Grani<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/pierre_haguenauer.png" style="width:200px;" /><br>Pierre Haguenauer<br>ESO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/pietro_schipani.jpg" style="width:200px;" /><br>Pietro Schipani<br>INAF-Capodimonte</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/richard_mcdermid.jpg" style="width:200px;" /><br>Richard McDermid<br>Astralis-AAO</td>
@@ -70,7 +66,6 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/romain_fetick.png" style="width:200px;" /><br>Romain Fetick<br>LAM</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/ross_zhelem.jpg" style="width:200px;" /><br>Ross Zhelem<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/rosanna_sordo.jpg" style="width:200px;" /><br>Rosanna Sordo<br>INAF-Padova</td>
-<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/runa_briguglio.png" style="width:200px;" /><br>Runa Briguglio<br>INAF-Arcetri</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/salvatore_savarese.jpg" style="width:200px;" /><br>Salvatore Savarese<br>INAF-Capodimonte</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/scott_smedley.png" style="width:200px;" /><br>Scott Smedley<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/sergio_dorsi.jpg" style="width:200px;" /><br>Sergio D’Orsi<br>INAF-Capodimonte</td>
