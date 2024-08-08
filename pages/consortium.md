@@ -168,3 +168,7 @@ Sorted by first name. A happy team!
  </tr>
 </table>
 </div>
+
+### Previously in MAVIS
+
+Past members: David Robertson, Runa Briguglio, Marco Stangalini, Paolo Grani, Alessio Zanutta
