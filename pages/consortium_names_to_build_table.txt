@@ -56,6 +56,7 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/matteo_aliverti.png" style="width:200px;" /><br>Matteo Aliverti<br>INAF-Milano</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/mirko_colapietro.jpg" style="width:200px;" /><br>Mirko Colapietro<br>INAF-Capodimonte</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/nicolas_doucet.png" style="width:200px;" /><br>Nicolas Doucet<br>Astralis-AITC</td>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/mojtaba.png" style="width:200px;" /><br>Mojtaba Taheri<br>TMT</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/nuria_lorente.jpg" style="width:200px;" /><br>Nuria Lorente<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/oleksandra_rebrysh.png" style="width:200px;" /><br>Oleksandra Rebrysh<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/pierre_haguenauer.png" style="width:200px;" /><br>Pierre Haguenauer<br>ESO</td>
