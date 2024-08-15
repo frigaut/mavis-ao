@@ -1,6 +1,7 @@
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrea_balestra.jpg" style="width:200px;" /><br>Andrea Balestra<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrea_baruffolo.jpg" style="width:200px;" /><br>Andrea Baruffolo<br>INAF-Padova</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrea_bianco.jpg" style="width:200px;" /><br>Andrea Bianco<br>INAF-Milano</td>
+<td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/andrew_kruse.png" style="width:200px;" /><br>Andrew Kruse<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/annino_vaccarella.jpg" style="width:200px;" /><br>Annino Vaccarella<br>Astralis-AITC</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/anthony_horton.jpg" style="width:200px;" /><br>Anthony Horton<br>Astralis-AAO</td>
 <td style="text-align:center; font-size: 80%; font-weight: bold; border-style: none; padding-bottom: 30px;"><img src="../assets/mugshots/antonino_marasco.png" style="width:200px;" /><br>Antonino Marasco<br>INAF-Arcetri</td>
