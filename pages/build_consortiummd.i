@@ -19,6 +19,9 @@ while (1) {
       write,fou,"</tr>\n</table>\n</div>";
       close,fin;
       close,fou;
+      cmd = "cat previous_members.txt >> consortium.md";
+      system,cmd;
+      write,"\n"+cmd;
       quit;
     }
     write,fou,line;
@@ -26,3 +29,4 @@ while (1) {
   write,fou,"</tr>";
   write,fou,"<tr>";
 }
+
