@@ -11,7 +11,7 @@ comments: []
 excerpt_separator: <!--more-->
 ---
 
-(Almost five years into the project, we finally had our first ever busy week in Australia! I bet our European MAVIS team members had been expecting that for a while.)
+Almost five years into the project, we finally had our first ever busy week in Australia! I bet our European MAVIS team members had been expecting that for a while.
 
 The MAVIS team has had its first busy week with participants from all over the consortium since the start of COVID. A busy week is an event in which a large fraction of the team gets together in one physical place and works exclusively on the project for an extended period of time (in that case, a week). The format is a bit like a workshop or a summer school, except people attend to work rather than learn. There is usually a handful of plenary sessions, and a number of parallel split sessions - up to four in our case.
 
